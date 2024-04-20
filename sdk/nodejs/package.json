@@ -1,6 +1,6 @@
 {
     "name": "@littlejo/cilium",
-    "version": "${VERSION}",
+    "version": "0.0.6",
     "description": "A Pulumi package for creating and managing Cilium resources",
     "keywords": [
         "pulumi",
